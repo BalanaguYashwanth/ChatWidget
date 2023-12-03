@@ -83,7 +83,6 @@ const Widget = () => {
       <section onClick={handlePopup}>
         <img src={widgetIcon} className="widgetIconStyles" alt="widget-icon" />
       </section>
-      <p>hello</p>
     </main>
   );
 };
